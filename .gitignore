@@ -1,0 +1,10 @@
+# OS X
+.DS_Store*
+._*
+
+# npm
+.idea/
+node_modules/
+
+# config
+app/config/config.json
